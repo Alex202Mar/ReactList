@@ -1,0 +1,23 @@
+export const premadeItems = [
+    { name: 'Tablet', cost: '150' },
+    { name: 'Printer', cost: '100' },
+    { name: 'Scanner', cost: '80' },
+    { name: 'Laptop', cost: '800' },
+    { name: 'Smartphone', cost: '500' },
+    { name: 'Smart TV', cost: '600' },
+    { name: 'Wireless Earphones', cost: '50' },
+    { name: 'Camera', cost: '300' },
+    { name: 'Gaming Console', cost: '400' },
+    { name: 'External Hard Drive', cost: '80' },
+    { name: 'Headphones', cost: '70' },
+    { name: 'Monitor', cost: '200' },
+    { name: 'Mouse', cost: '20' },
+    { name: 'Keyboard', cost: '30' },
+    { name: 'Router', cost: '60' },
+    { name: 'Speaker System', cost: '100' },
+    { name: 'Digital Camera', cost: '250' },
+    { name: 'Smart Watch', cost: '150' },
+    { name: 'Game Controller', cost: '50' },
+    { name: 'Virtual Reality Headset', cost: '300' },
+  ];
+  
